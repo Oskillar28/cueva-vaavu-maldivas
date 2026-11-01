@@ -1,0 +1,34 @@
+=== 1. Pressure, partial pressures and density of AIR ===
+Depth (m)  P (bar)   ppO2   ppN2  dens g/L martinis
+     0.0     1.00   0.21   0.79      1.23      0.0
+    30.0     4.00   0.84   3.16      4.90      1.0
+    40.0     5.00   1.05   3.95      6.12      2.0
+    47.0     5.70   1.20   4.50      6.98      2.7
+    50.0     6.00   1.26   4.74      7.35      3.0
+    56.7     6.67   1.40   5.27      8.17      3.7
+    60.0     7.00   1.47   5.53      8.58      4.0
+    66.0     7.60   1.60   6.00      9.31      4.6
+    69.0     7.90   1.66   6.24      9.68      4.9
+    70.0     8.00   1.68   6.32      9.80      5.0
+
+MOD of air: 1.4 bar -> 56.7 m ; 1.6 bar -> 66.2 m
+Density 5.2 g/L on air at 32.4 m ; 6.2 g/L at 40.6 m
+Nitrox 28 at 60 m: ppO2 = 1.96 bar
+Trimix 18/45 at 60 m: ppO2 = 1.26 bar ; END = 22.8 m
+
+=== 2. Duration of a 12 L cylinder at 200 bar (2,400 L) at 60 m ===
+Very relaxed  SAC 15 L/min ->   105 L/min at 60 m ->  22.9 min
+Normal        SAC 20 L/min ->   140 L/min at 60 m ->  17.1 min
+Effort        SAC 30 L/min ->   210 L/min at 60 m ->  11.4 min
+Stress        SAC 45 L/min ->   315 L/min at 60 m ->   7.6 min
+Panic         SAC 60 L/min ->   420 L/min at 60 m ->   5.7 min
+Rule of thirds (SAC 20): time to swim in = 5.7 min
+
+=== 3. Decompression on air at 60 m (Bühlmann ZH-L16C, GF 30/85, SAC 20, descent 20 m/min, ascent 9 m/min) ===
+Bottom time 20 min -> ascent    68 min ; total gas   5189 L ; available 2400 L ; x2.2
+Bottom time 30 min -> ascent   129 min ; total gas   8781 L ; available 2400 L ; x3.7
+Bottom time 45 min -> ascent   250 min ; total gas  15227 L ; available 2400 L ; x6.3
+
+WARNING: educational calculations only. Do not use them to dive.
+
+Figures generated in: ../figs_en

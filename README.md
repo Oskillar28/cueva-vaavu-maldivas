@@ -2,6 +2,8 @@
 
 ### Física, geografía y cadena de errores del peor accidente de buceo de la historia de Maldivas
 
+> 🇬🇧 **[English version](README.en.md)**
+
 > **Estudio divulgativo** · Autor: Óscar Ramírez Martín · Octubre 2026
 > Elaborado a partir de fuentes públicas contrastadas y de cálculos propios.
 

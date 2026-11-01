@@ -104,8 +104,11 @@ def local_images(srcs, cap):
     if cap: items.append(Paragraph(inline(cap), ss["cap"]))
     story.append(KeepTogether(items)); return True
 
+EN = SRC.endswith(".en.md")
+T = (lambda es, en: en if EN else es)
+
 def remote_photo_note(alts, cap):
-    txt = "<b>Foto en la versión web (GitHub):</b> " + inline(cap if cap else ", ".join(alts))
+    txt = T("<b>Foto en la versión web (GitHub):</b> ", "<b>Photo in the web version (GitHub):</b> ") + inline(cap if cap else ", ".join(alts))
     box([Paragraph(txt, ss["photo"])], bg=colors.HexColor("#f6f6f2"), edge=colors.HexColor("#b9b2a0"))
 
 class Doc(BaseDocTemplate):
@@ -127,7 +130,7 @@ def deco(canv, doc):
         canv.setStrokeColor(LINE); canv.line(2.2 * cm, 1.5 * cm, A4[0] - 2.2 * cm, 1.5 * cm); canv.restoreState()
 
 doc = Doc(OUT, pagesize=A4, leftMargin=2.2 * cm, rightMargin=2.2 * cm, topMargin=2 * cm, bottomMargin=2 * cm,
-          title=title, author="Óscar Ramírez Martín", subject="Estudio divulgativo")
+          title=title, author="Óscar Ramírez Martín", subject=T("Estudio divulgativo", "Popular-science study"))
 doc.addPageTemplates([PageTemplate(id="p", frames=[Frame(doc.leftMargin, doc.bottomMargin, doc.width, doc.height)], onPage=deco)])
 
 # ---- portada ----
@@ -137,20 +140,20 @@ while i < len(lines) and not lines[i].startswith("## "):
     if lines[i].startswith("### ") and not subtitle: subtitle = clean(lines[i][4:])
     i += 1
 story.append(Spacer(1, 1.5 * cm))
-story.append(Paragraph("<font color='#d64545'>ESTUDIO DIVULGATIVO</font>", ss["h2"]))
+story.append(Paragraph(T("<font color='#d64545'>ESTUDIO DIVULGATIVO</font>", "<font color='#d64545'>POPULAR-SCIENCE STUDY</font>"), ss["h2"]))
 story.append(Paragraph(title, ParagraphStyle("t", fontName="DVS-B", fontSize=27, leading=33, textColor=DEEP)))
 story.append(Spacer(1, 8))
 story.append(Paragraph(subtitle, ParagraphStyle("st", fontName="DV", fontSize=13, leading=18, textColor=INK)))
 story.append(Spacer(1, 0.8 * cm))
-for fig in ("figs/corte_cueva.png",):
-    local_images([fig], "Corte esquemático de la cueva (ilustración propia).")
-story.append(Paragraph("<b>Autor:</b> Óscar Ramírez Martín · <b>Fecha:</b> octubre de 2026 · <b>Licencia:</b> CC BY-SA 4.0", ss["body"]))
+for fig in (T("figs/corte_cueva.png", "figs_en/corte_cueva.png"),):
+    local_images([fig], T("Corte esquemático de la cueva (ilustración propia).", "Schematic cross-section of the cave (author's own illustration)."))
+story.append(Paragraph(T("<b>Autor:</b> Óscar Ramírez Martín · <b>Fecha:</b> octubre de 2026 · <b>Licencia:</b> CC BY-SA 4.0", "<b>Author:</b> Óscar Ramírez Martín · <b>Date:</b> October 2026 · <b>Licence:</b> CC BY-SA 4.0"), ss["body"]))
 # notas de cabecera (excepto el enlace al PDF)
 for l in lines[1:i]:
-    if l.startswith("> ") and ("Nota de respeto" in l):
+    if l.startswith("> ") and ("Nota de respeto" in l or "note of respect" in l):
         box([Paragraph(inline(l[2:]), ss["note"])])
 story.append(PageBreak())
-story.append(Paragraph("Índice", ss["h1"]))
+story.append(Paragraph(T("Índice", "Contents"), ss["h1"]))
 toc = TableOfContents(); toc.levelStyles = [ss["toc1"], ss["toc2"]]; story.append(toc); story.append(PageBreak())
 
 # ---- cuerpo ----
@@ -164,7 +167,7 @@ while i < len(lines):
     l = lines[i]; s = l.strip()
     if l.startswith("## "):
         flush(); h = clean(l[3:])
-        skip_section = h.lower().startswith("índice")
+        skip_section = h.lower().startswith(("índice", "contents"))
         if not skip_section:
             story.append(CondPageBreak(5 * cm)); p = Paragraph(inline(h), ss["h1"]); p._toc = (0, inline(h)); story.append(p)
         i += 1; continue
@@ -176,7 +179,7 @@ while i < len(lines):
         while i < len(lines) and not lines[i].strip().startswith("```"): i += 1
         i += 1; continue
     if s.startswith("$$"):
-        flush(); story.append(Paragraph("<b>P<sub>absoluta</sub> (bar) = 1 + profundidad (m) / 10</b>", ParagraphStyle("f", parent=ss["body"], alignment=TA_CENTER))); i += 1; continue
+        flush(); story.append(Paragraph(T("<b>P<sub>absoluta</sub> (bar) = 1 + profundidad (m) / 10</b>", "<b>P<sub>absolute</sub> (bar) = 1 + depth (m) / 10</b>"), ParagraphStyle("f", parent=ss["body"], alignment=TA_CENTER))); i += 1; continue
     if s == "---" or s == "":
         flush(); i += 1; continue
     if s.startswith("|"):
