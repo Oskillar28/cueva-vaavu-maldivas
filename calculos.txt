@@ -1,0 +1,34 @@
+=== 1. Presión, presiones parciales y densidad del AIRE ===
+Prof (m)  P (bar)   ppO2   ppN2  dens g/L martinis
+     0.0     1.00   0.21   0.79      1.23      0.0
+    30.0     4.00   0.84   3.16      4.90      1.0
+    40.0     5.00   1.05   3.95      6.12      2.0
+    47.0     5.70   1.20   4.50      6.98      2.7
+    50.0     6.00   1.26   4.74      7.35      3.0
+    56.7     6.67   1.40   5.27      8.17      3.7
+    60.0     7.00   1.47   5.53      8.58      4.0
+    66.0     7.60   1.60   6.00      9.31      4.6
+    69.0     7.90   1.66   6.24      9.68      4.9
+    70.0     8.00   1.68   6.32      9.80      5.0
+
+MOD del aire: 1,4 bar -> 56.7 m ; 1,6 bar -> 66.2 m
+Densidad 5,2 g/L con aire a 32.4 m ; 6,2 g/L a 40.6 m
+Nitrox 28 a 60 m: ppO2 = 1.96 bar
+Trimix 18/45 a 60 m: ppO2 = 1.26 bar ; END = 22.8 m
+
+=== 2. Autonomía de una botella de 12 L a 200 bar (2.400 L) a 60 m ===
+Muy relajado  SAC 15 L/min ->   105 L/min a 60 m ->  22.9 min
+Normal        SAC 20 L/min ->   140 L/min a 60 m ->  17.1 min
+Esfuerzo      SAC 30 L/min ->   210 L/min a 60 m ->  11.4 min
+Estrés        SAC 45 L/min ->   315 L/min a 60 m ->   7.6 min
+Pánico        SAC 60 L/min ->   420 L/min a 60 m ->   5.7 min
+Regla de los tercios (SAC 20): tiempo para entrar = 5.7 min
+
+=== 3. Descompresión con aire a 60 m (Bühlmann ZH-L16C, GF 30/85, SAC 20, descenso 20 m/min, ascenso 9 m/min) ===
+Tiempo en el fondo 20 min -> ascenso    68 min ; gas total   5189 L ; disponible 2400 L ; x2.2
+Tiempo en el fondo 30 min -> ascenso   129 min ; gas total   8781 L ; disponible 2400 L ; x3.7
+Tiempo en el fondo 45 min -> ascenso   250 min ; gas total  15227 L ; disponible 2400 L ; x6.3
+
+AVISO: cálculos divulgativos. No usar para bucear.
+
+Figuras generadas en: figs
