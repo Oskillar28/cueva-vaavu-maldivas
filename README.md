@@ -11,6 +11,9 @@
 
 > ⚠️ **Nota de respeto.** Este estudio trata la muerte real de seis personas: cinco buceadores italianos y un buzo militar maldivo que murió intentando recuperarlos. No incluye fotografías de las víctimas ni imágenes de sus cuerpos. El objetivo es entender **por qué** ocurrió y **cómo se podría haber evitado**, para que no vuelva a ocurrir.
 
+> 📚 **Serie de estudios sobre accidentes de buceo** del mismo autor:
+> [Blue Hole de Dahab (Yuri Lipski, 2000)](https://github.com/Oskillar28/blue-hole-dahab-yuri-lipski) · [Boesmansgat (Deon Dreyer y Dave Shaw, 1994–2005)](https://github.com/Oskillar28/boesmansgat-deon-dreyer) · [Cueva de Plura (Noruega, 2014)](https://github.com/Oskillar28/plura-cueva-noruega) · **Cueva de Vaavu (Maldivas, 2026)** (este estudio)
+
 ![Felidhoo, capital del atolón de Vaavu](https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Felidhoo%2C_Maldives_%28Unsplash%29.jpg/1280px-Felidhoo%2C_Maldives_%28Unsplash%29.jpg)
 *Felidhoo, la capital del atolón de Vaavu, con el arrecife y la laguna turquesa a su alrededor. La cueva del accidente está unos 14 km al norte. Foto: Ahmed Saffu, CC0, vía Wikimedia Commons.*
 
@@ -458,7 +461,7 @@ El sábado 16 de mayo, un equipo de **ocho buzos** de la Guardia Costera maldiva
 | Aspecto | Dato |
 |---|---|
 | Buzos | **Sami Paakkarinen, Jenni Westerlund y Patrik Grönqvist** |
-| Experiencia | Los mismos que en 2014 recuperaron a dos buceadores muertos en la cueva de **Plura** (Noruega), a más de 100 m |
+| Experiencia | Los mismos que en 2014 recuperaron a dos buceadores muertos en la cueva de [**Plura**](https://github.com/Oskillar28/plura-cueva-noruega) (Noruega), a más de 100 m |
 | Equipo | **Rebreathers** de circuito cerrado, **propulsores submarinos** (*scooters*) y sistemas de soporte vital duplicados |
 | Apoyo | Equipos de buzos maldivos a profundidad media y somera; material especializado de Reino Unido y Australia |
 | Inmersiones | Unas **3 horas** cada una; en la última, unos 50 minutos de trabajo dentro de la cueva |

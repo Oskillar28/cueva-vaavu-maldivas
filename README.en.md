@@ -11,6 +11,9 @@
 
 > ⚠️ **A note of respect.** This study deals with the real deaths of six people: five Italian divers and a Maldivian military diver who died trying to recover them. It contains no photographs of the victims and no images of their bodies. The aim is to understand **why** it happened and **how it could have been prevented**, so that it does not happen again.
 
+> 📚 **Series of studies on diving accidents** by the same author:
+> [Dahab Blue Hole (Yuri Lipski, 2000)](https://github.com/Oskillar28/blue-hole-dahab-yuri-lipski) · [Boesmansgat (Deon Dreyer and Dave Shaw, 1994–2005)](https://github.com/Oskillar28/boesmansgat-deon-dreyer) · [Plura cave (Norway, 2014)](https://github.com/Oskillar28/plura-cueva-noruega) · **Vaavu cave (Maldives, 2026)** (this study)
+
 ![Felidhoo, capital of Vaavu Atoll](https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Felidhoo%2C_Maldives_%28Unsplash%29.jpg/1280px-Felidhoo%2C_Maldives_%28Unsplash%29.jpg)
 *Felidhoo, the capital of Vaavu Atoll, surrounded by reef and turquoise lagoon. The cave where the accident happened is about 14 km to the north. Photo: Ahmed Saffu, CC0, via Wikimedia Commons.*
 
@@ -458,7 +461,7 @@ On Saturday 16 May, a team of **eight divers** from the Maldivian Coast Guard (M
 | Aspect | Fact |
 |---|---|
 | Divers | **Sami Paakkarinen, Jenni Westerlund and Patrik Grönqvist** |
-| Experience | The same divers who in 2014 recovered two divers who died in the **Plura** cave (Norway), at more than 100 m |
+| Experience | The same divers who in 2014 recovered two divers who died in the [**Plura**](https://github.com/Oskillar28/plura-cueva-noruega) cave (Norway), at more than 100 m |
 | Equipment | Closed-circuit **rebreathers**, **diver propulsion vehicles** (*scooters*) and duplicated life-support systems |
 | Support | Maldivian diving teams at mid and shallow depths; specialist equipment from the UK and Australia |
 | Dives | About **3 hours** each; on the last one, about 50 minutes of work inside the cave |
