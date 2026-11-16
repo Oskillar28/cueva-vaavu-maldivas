@@ -14,7 +14,7 @@
 > 🔎 **La investigación oficial sigue abierta.** Ni Maldivas ni la fiscalía de Roma han publicado conclusiones. Todo lo que no está confirmado por una fuente oficial aparece aquí como **hipótesis**, con su origen y un nivel de confianza (0–1). Si detectas un error o un dato que haya cambiado, abre un *issue* en este repositorio y lo corregiré.
 
 > 📚 **Serie de estudios sobre accidentes de buceo** del mismo autor:
-> [Blue Hole de Dahab (Yuri Lipski, 2000)](https://github.com/Oskillar28/blue-hole-dahab-yuri-lipski) · [Boesmansgat (Deon Dreyer y Dave Shaw, 1994–2005)](https://github.com/Oskillar28/boesmansgat-deon-dreyer) · [Cueva de Plura (Noruega, 2014)](https://github.com/Oskillar28/plura-cueva-noruega) · **Cueva de Vaavu (Maldivas, 2026)** (este estudio)
+> [Blue Hole de Dahab (Yuri Lipski, 2000)](https://github.com/Oskillar28/blue-hole-dahab-yuri-lipski) · [Boesmansgat (Deon Dreyer y Dave Shaw, 1994–2005)](https://github.com/Oskillar28/boesmansgat-deon-dreyer) · [Zacatón (Sheck Exley, 1994)](https://github.com/Oskillar28/zacaton-cenote-mexico) · [Cueva de Plura (Noruega, 2014)](https://github.com/Oskillar28/plura-cueva-noruega) · **Cueva de Vaavu (Maldivas, 2026)** (este estudio)
 
 ![Felidhoo, capital del atolón de Vaavu](https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Felidhoo%2C_Maldives_%28Unsplash%29.jpg/1280px-Felidhoo%2C_Maldives_%28Unsplash%29.jpg)
 *Felidhoo, la capital del atolón de Vaavu, con el arrecife y la laguna turquesa a su alrededor. La cueva del accidente está unos 14 km al norte. Foto: Ahmed Saffu, CC0, vía Wikimedia Commons.*

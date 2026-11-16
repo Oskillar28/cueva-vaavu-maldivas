@@ -14,7 +14,7 @@
 > 🔎 **The official investigation is still open.** Neither the Maldives nor the Rome prosecutors have published conclusions. Everything not confirmed by an official source appears here as a **hypothesis**, with its origin and a confidence level (0–1). If you spot an error or something that has changed, please open an *issue* in this repository and I will correct it.
 
 > 📚 **Series of studies on diving accidents** by the same author:
-> [Dahab Blue Hole (Yuri Lipski, 2000)](https://github.com/Oskillar28/blue-hole-dahab-yuri-lipski) · [Boesmansgat (Deon Dreyer and Dave Shaw, 1994–2005)](https://github.com/Oskillar28/boesmansgat-deon-dreyer) · [Plura cave (Norway, 2014)](https://github.com/Oskillar28/plura-cueva-noruega) · **Vaavu cave (Maldives, 2026)** (this study)
+> [Dahab Blue Hole (Yuri Lipski, 2000)](https://github.com/Oskillar28/blue-hole-dahab-yuri-lipski) · [Boesmansgat (Deon Dreyer and Dave Shaw, 1994–2005)](https://github.com/Oskillar28/boesmansgat-deon-dreyer) · [Zacatón (Sheck Exley, 1994)](https://github.com/Oskillar28/zacaton-cenote-mexico) · [Plura cave (Norway, 2014)](https://github.com/Oskillar28/plura-cueva-noruega) · **Vaavu cave (Maldives, 2026)** (this study)
 
 ![Felidhoo, capital of Vaavu Atoll](https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Felidhoo%2C_Maldives_%28Unsplash%29.jpg/1280px-Felidhoo%2C_Maldives_%28Unsplash%29.jpg)
 *Felidhoo, the capital of Vaavu Atoll, surrounded by reef and turquoise lagoon. The cave where the accident happened is about 14 km to the north. Photo: Ahmed Saffu, CC0, via Wikimedia Commons.*
