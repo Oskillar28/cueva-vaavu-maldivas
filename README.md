@@ -1,15 +1,17 @@
 # 🌊 La tragedia de la cueva de Vaavu (Maldivas, 2026)
 
-### Física, geografía y cadena de errores del peor accidente de buceo de la historia de Maldivas
+### Física, geografía y posibles causas del peor accidente de buceo de la historia de Maldivas
 
 > 🇬🇧 **[English version](README.en.md)**
 
-> **Estudio divulgativo** · Autor: Óscar Ramírez Martín · Octubre 2026
-> Elaborado a partir de fuentes públicas contrastadas y de cálculos propios.
+> **Estudio divulgativo** · Autor: Óscar Ramírez Martín, buceador aficionado que investiga el caso · Octubre 2026 (revisado en noviembre de 2026)
+> No soy experto en buceo técnico ni en cuevas. Este trabajo reúne fuentes públicas contrastadas y cálculos propios con fórmulas estándar, y señala en cada punto qué está confirmado y qué no.
 
 > 📄 **Versión PDF:** [Estudio_Cueva_Vaavu_Maldivas.pdf](Estudio_Cueva_Vaavu_Maldivas.pdf)
 
-> ⚠️ **Nota de respeto.** Este estudio trata la muerte real de seis personas: cinco buceadores italianos y un buzo militar maldivo que murió intentando recuperarlos. No incluye fotografías de las víctimas ni imágenes de sus cuerpos. El objetivo es entender **por qué** ocurrió y **cómo se podría haber evitado**, para que no vuelva a ocurrir.
+> ⚠️ **Nota de respeto.** Este estudio trata la muerte real de seis personas: cinco buceadores italianos y un buzo militar maldivo que murió intentando recuperarlos. Sus familias pueden leerlo. No incluye fotografías de las víctimas ni imágenes de sus cuerpos, y no pretende señalar culpables. El objetivo es entender **qué pudo ocurrir** y **cómo se pueden evitar** accidentes así.
+
+> 🔎 **La investigación oficial sigue abierta.** Ni Maldivas ni la fiscalía de Roma han publicado conclusiones. Todo lo que no está confirmado por una fuente oficial aparece aquí como **hipótesis**, con su origen y un nivel de confianza (0–1). Si detectas un error o un dato que haya cambiado, abre un *issue* en este repositorio y lo corregiré.
 
 > 📚 **Serie de estudios sobre accidentes de buceo** del mismo autor:
 > [Blue Hole de Dahab (Yuri Lipski, 2000)](https://github.com/Oskillar28/blue-hole-dahab-yuri-lipski) · [Boesmansgat (Deon Dreyer y Dave Shaw, 1994–2005)](https://github.com/Oskillar28/boesmansgat-deon-dreyer) · [Cueva de Plura (Noruega, 2014)](https://github.com/Oskillar28/plura-cueva-noruega) · **Cueva de Vaavu (Maldivas, 2026)** (este estudio)
@@ -29,7 +31,7 @@
     - [4.7 La cueva](#47-la-cueva)
 5. [Cronología](#5-cronología)
 6. [Qué muestran las imágenes](#6-qué-muestran-las-imágenes)
-7. [Por qué murieron: análisis punto por punto](#7-por-qué-murieron-análisis-punto-por-punto)
+7. [Qué pudo pasar: análisis punto por punto](#7-qué-pudo-pasar-análisis-punto-por-punto)
 8. [La cadena de errores](#8-la-cadena-de-errores)
 9. [Cómo se podría haber evitado](#9-cómo-se-podría-haber-evitado)
 10. [La recuperación y la sexta víctima](#10-la-recuperación-y-la-sexta-víctima)
@@ -55,7 +57,7 @@ Este estudio hace lo contrario que un titular: separa lo comprobado de lo supues
 
 ## 2. El caso en 30 segundos
 
-| Dato | Valor más fiable |
+| Dato | Valor más fiable (a noviembre de 2026) |
 |---|---|
 | **Fecha** | Jueves 14 de mayo de 2026, inmersión hacia las 11:00 |
 | **Lugar** | Cueva de Devana Kandu (también llamada Dhekunu Kandu, Thinwana Kandu o «cueva de los tiburones»), junto a la isla de Alimathaa, atolón de Vaavu (Maldivas) |
@@ -64,12 +66,12 @@ Este estudio hace lo contrario que un titular: separa lo comprobado de lo supues
 | **Límite legal del buceo recreativo en Maldivas** | **30 m** |
 | **Víctimas** | 5 buceadores italianos + 1 buzo militar maldivo durante el rescate |
 | **Barco** | *MV Duke of York*, crucero de buceo (*liveaboard*) con bandera maldiva |
-| **Gas** | Aire comprimido normal en botellas de 12 L, sin redundancia |
-| **Causa médica** | **Anoxia** (falta de oxígeno) en los cinco: se les acabó el aire dentro de la cueva |
-| **Causa probable** | Se desorientaron al volver, entraron en un túnel lateral ciego que no figuraba en ningún mapa y agotaron el gas |
+| **Gas** | Aire comprimido en botellas de 12 L, según la mayoría de fuentes. Sin confirmación oficial: el análisis de las botellas no se ha publicado |
+| **Causa médica** | **Anoxia** (falta de oxígeno) en los cinco, según el peritaje médico que publicó la prensa italiana en octubre. El informe completo no es público |
+| **Hipótesis principal** | Reconstrucción **preliminar** de DAN Europe: se desorientaron al volver, entraron en un túnel lateral ciego que no figuraba en ningún mapa y se les acabó el aire. No es una conclusión oficial |
 | **Quién los recuperó** | Tres buzos finlandeses de espeleobuceo enviados por DAN Europe, del 18 al 21 de mayo |
 
-**En una frase:** un grupo experto en buceo **en aguas abiertas** entró, con equipo de turismo, en una cueva oscura a 60 m de profundidad sin hilo guía. Al volver no encontraron la salida y el aire de una sola botella solo da para unos minutos a esa profundidad.
+**En una frase:** según los datos publicados hasta ahora, un grupo con mucha experiencia en buceo **en aguas abiertas** entró en una cueva oscura a unos 60 m de profundidad con equipo recreativo y, según varias fuentes, sin hilo guía. La hipótesis principal es que al volver no encontraron la salida, y a esa profundidad el aire de una sola botella dura pocos minutos.
 
 ---
 
@@ -88,7 +90,7 @@ Este estudio hace lo contrario que un titular: separa lo comprobado de lo supues
 
 El grupo viajaba en una expedición científica anual de la Universidad de Génova sobre corales blandos, que se hacía desde 1997. La universidad sostiene que esta inmersión concreta fue **una actividad personal**, fuera del programa oficial.
 
-> 🧠 **Razonamiento:** «muy experto» ≠ «experto en cuevas». 5.000 inmersiones en aguas abiertas no enseñan las técnicas propias de una cueva: hilo guía, regla de los tercios, aleteo que no levanta sedimento, navegación a oscuras. Los especialistas citados por *The Guardian* insisten en lo mismo: **el exceso de confianza del buceador experto** es uno de los factores que más se repiten en los accidentes en cuevas.
+> 🧠 **Razonamiento general:** «muy experto» ≠ «experto en cuevas». Miles de inmersiones en aguas abiertas no enseñan las técnicas propias de una cueva: hilo guía, regla de los tercios, aleteo que no levanta sedimento, navegación a oscuras. Los especialistas citados por *The Guardian* señalan que **el exceso de confianza del buceador experto** es uno de los factores que más se repiten en los accidentes en cuevas. No se sabe qué formación en cuevas tenía cada miembro del grupo.
 
 ---
 
@@ -227,7 +229,7 @@ La luz decide qué vive a cada profundidad. El agua absorbe primero el rojo (uno
 
 ![Vista en planta de la cueva](figs/planta_cueva.png)
 
-**La trampa, explicada por los buzos que la recorrieron:** al entrar, se cruza la 2.ª cámara pasando junto a un montículo de arena. Al volver, con la arena levantada y la luz de las linternas rebotando en la nube, ese montículo **tapa la boca del túnel correcto**, mientras la boca del túnel lateral, al lado, parece la salida. Los cuatro cuerpos aparecieron juntos al fondo de ese túnel lateral. Benedetti, el guía, apareció cerca de la entrada con la botella vacía: es posible que encontrara la salida o que volviera a buscar a los demás.
+**La hipótesis de la «trampa de arena», según los buzos que recorrieron la cueva:** al entrar, se cruza la 2.ª cámara pasando junto a un montículo de arena. Al volver, con la arena levantada y la luz de las linternas rebotando en la nube, ese montículo **podría tapar la boca del túnel correcto**, mientras la boca del túnel lateral, al lado, parece la salida. Según DAN Europe, los cuatro cuerpos aparecieron al fondo de ese túnel lateral, y Benedetti, el guía, cerca de la entrada. Por qué estaba allí no se sabe: pudo encontrar la salida o volver a buscar a los demás. Es una explicación plausible, **no una conclusión oficial**.
 
 ---
 
@@ -251,7 +253,7 @@ timeline
     21 may : Retiran cabos y equipos; se entregan a la policía
     23 may : Llegada de los cuerpos al aeropuerto de Malpensa (Milán)
     25-26 may : Autopsias en Gallarate; sin lesiones ni traumatismos
-    4-5 oct : El peritaje médico confirma anoxia en los cinco
+    4-5 oct : Según la prensa italiana, el peritaje médico indica anoxia en los cinco
 ```
 
 ---
@@ -268,7 +270,9 @@ timeline
 
 ---
 
-## 7. Por qué murieron: análisis punto por punto
+## 7. Qué pudo pasar: análisis punto por punto
+
+> 🔎 Esta sección **no da conclusiones oficiales**. Explica la física que actúa a esa profundidad y las hipótesis que se han publicado. Las cifras de gas y tiempo son **estimaciones** basadas en los datos que han dado las fuentes (botellas de 12 L de aire), no en los ordenadores de buceo de las víctimas, que no se han hecho públicos.
 
 Los números de esta sección son cálculos propios, hechos con fórmulas estándar del buceo y comprobados con un script en Python ([`scripts/calculos_y_figuras.py`](scripts/calculos_y_figuras.py), resultados en [`calculos.txt`](calculos.txt)).
 
@@ -351,16 +355,16 @@ A 60 m el cuerpo absorbe nitrógeno muy deprisa. Para no sufrir una **enfermedad
 
 ![Gas necesario frente a gas disponible](figs/deco_gas.png)
 
-> ⚖️ **Conclusión:** con una sola botella de 12 L **no existe ningún plan posible** para hacer esa inmersión con seguridad. El gas necesario es entre **2 y 6 veces** el que llevaban. El error decisivo no estuvo dentro de la cueva, sino **antes de entrar al agua**. ⚠️ No uses estas cifras para planificar una inmersión real.
+> ⚖️ **Conclusión del cálculo:** si llevaban, como indican las fuentes, una sola botella de 12 L de aire cada uno, **no existe ningún plan posible** para hacer esa inmersión con seguridad: el gas necesario sería entre **2 y 6 veces** el disponible. Si se confirma, el problema de fondo estaría en la **planificación**, antes de entrar al agua, más que en lo que pasó dentro. ⚠️ No uses estas cifras para planificar una inmersión real.
 
 ### 7.7 Perderse en una cueva: oscuridad, sedimento y un túnel sin mapa
 
-Este es el punto que, según DAN Europe, explica lo ocurrido.
+Esta es la **hipótesis preliminar** de DAN Europe para explicar lo ocurrido. Es la que mejor encaja con la posición de los cuerpos, pero no es una conclusión oficial.
 
 1. **Sin luz natural no hay referencia.** Edd Sorenson, especialista en rescate en cuevas, lo explicó a *The Guardian*: «Las cuevas no son oscuras: no tienen luz. Tu casa de noche está oscura. Si en una cueva se te apaga la linterna, no hay nada». El ojo no se acostumbra porque no hay ni un fotón.
 2. **El sedimento («silt-out»).** El suelo de la 2.ª cámara es arena fina. Un aleteo normal de aguas abiertas (*flutter kick*, de arriba abajo) junto al fondo la levanta y la visibilidad pasa de perfecta a **cero en segundos**. En cuevas se usa el **aleteo de rana** (*frog kick*), que empuja el agua hacia atrás y no hacia abajo.
-3. **Sin hilo guía.** Los informes coinciden en que **no se usó hilo guía**. En espeleobuceo es la regla número uno: un **hilo continuo desde el agua abierta** hasta el punto más lejano. Si se pierde la visibilidad, se sigue el hilo **a tientas** hasta la salida.
-4. **El montículo y el túnel gemelo.** La boca del túnel correcto quedaba tapada por el montículo de arena, y la del túnel lateral, al lado, parecía la salida (ver [§4.7](#47-la-cueva)).
+3. **Sin hilo guía.** Varias fuentes (Wikipedia, *Divevolk* y declaraciones de los buzos de recuperación) indican que **no se usó hilo guía**; no hay confirmación oficial. En espeleobuceo es la regla número uno: un **hilo continuo desde el agua abierta** hasta el punto más lejano. Si se pierde la visibilidad, se sigue el hilo **a tientas** hasta la salida.
+4. **El montículo y el túnel gemelo.** Según los buzos de recuperación, la boca del túnel correcto pudo quedar tapada por el montículo de arena, y la del túnel lateral, al lado, parecer la salida (ver [§4.7](#47-la-cueva)).
 5. **Un túnel que no estaba en ningún mapa.** Sami Paakkarinen encontró a las víctimas siguiendo **marcas en la arena** en un túnel no cartografiado. Por eso pidió después que la cueva se topografíe bien.
 
 ### 7.8 ¿Una corriente los arrastró?
@@ -369,11 +373,13 @@ El médico hiperbárico italiano Pasquale Longobardi (SIMSI) propuso que una cor
 
 ### 7.9 El factor humano
 
-- **Exceso de confianza.** Laura Marroni, de DAN Europe, lo resumió en una palabra: *overconfidence*. Ser muy bueno en aguas abiertas no es ser bueno en cuevas.
-- **Autoridad dentro del grupo.** Cuando en un grupo hay una profesora con 5.000 inmersiones y un instructor que conoce la zona, a los demás les cuesta decir «esto no». En aviación se llama **gradiente de autoridad**.
+Nadie sabe qué se habló en el barco ni cómo se tomó la decisión de entrar. Estos son factores que **se repiten en muchos accidentes en cuevas**; no está demostrado que influyeran en este.
+
+- **Exceso de confianza.** Laura Marroni, de DAN Europe, apuntó a esta posibilidad con una palabra: *overconfidence*. Ser muy bueno en aguas abiertas no es ser bueno en cuevas.
+- **Autoridad dentro del grupo.** En cualquier grupo con personas de mucha experiencia, a los demás les cuesta decir «esto no». En aviación se llama **gradiente de autoridad**.
 - **El grupo es tan seguro como su miembro menos preparado.** Cinco personas en una cueva son cinco nubes de arena y cinco consumos distintos.
 - **Normalización del riesgo.** Si una inmersión «arriesgada» ha salido bien otras veces, el riesgo deja de parecerlo.
-- **Objetivo fijo.** Ver una fauna que no existe fuera de la cueva era un motivo científico real, y eso empuja a seguir.
+- **Objetivo fijo.** Ver una fauna que no existe fuera de la cueva sería un motivo científico real, y eso empuja a seguir.
 
 ---
 
@@ -381,17 +387,19 @@ El médico hiperbárico italiano Pasquale Longobardi (SIMSI) propuso que una cor
 
 En seguridad se usa el **modelo del queso suizo**: un accidente rara vez tiene una sola causa. Ocurre cuando los agujeros de varias capas de protección se alinean.
 
+> 🔎 Esta cadena es una **reconstrucción posible** con los datos publicados. Cada eslabón lleva su fuente y su grado de confirmación en la tabla de abajo. La investigación oficial puede cambiarla.
+
 ![Cadena de errores](figs/cadena_errores.png)
 
 ```mermaid
 flowchart LR
-    A["1️⃣ Planificación<br/>Inmersión en cueva<br/>no declarada"] --> B["2️⃣ Profundidad<br/>47–70 m con límite<br/>legal de 30 m"]
+    A["1️⃣ Planificación<br/>Inmersión en cueva no<br/>declarada (según el Gobierno)"] --> B["2️⃣ Profundidad<br/>47–70 m con límite<br/>legal de 30 m"]
     B --> C["3️⃣ Gas<br/>Aire, no trimix"]
     C --> D["4️⃣ Equipo<br/>Una botella de 12 L,<br/>sin redundancia"]
-    D --> E["5️⃣ Sin hilo guía"]
-    E --> F["6️⃣ Formación<br/>Sin título conocido<br/>de espeleobuceo"]
+    D --> E["5️⃣ Sin hilo guía<br/>(según fuentes)"]
+    E --> F["6️⃣ Formación<br/>Formación en cuevas<br/>no documentada"]
     F --> G["7️⃣ Entorno<br/>Arena + oscuridad<br/>+ túnel sin mapa"]
-    G --> H["8️⃣ Túnel ciego<br/>y aire agotado"]
+    G --> H["8️⃣ Hipótesis:<br/>túnel ciego<br/>y aire agotado"]
     H --> I["💀 Anoxia"]
     style G fill:#d64545,color:#fff
     style I fill:#222,color:#fff
@@ -399,13 +407,13 @@ flowchart LR
 
 | Eslabón | ¿Comprobado? | Confianza |
 |---|---|---|
-| La cueva no estaba en el permiso y el Gobierno no sabía el lugar exacto | Sí (portavoz del Gobierno, *Open*, *Maldives Independent*) | 0,9 |
+| La cueva no estaba en el permiso y el Gobierno no sabía el lugar exacto | Según el portavoz del Gobierno (*Open*, *Maldives Independent*) | 0,9 |
 | Profundidad de 47–70 m, por encima del límite de 30 m | Sí (todas las fuentes) | 0,95 |
-| Aire comprimido normal y botellas de 12 L | Muy probable (DAN, IVG, Divernet, *Maldives Independent*) | 0,8 |
+| Aire comprimido normal y botellas de 12 L | Muy probable según la prensa (DAN, IVG, Divernet, *Maldives Independent*); sin análisis oficial publicado | 0,8 |
 | Sin hilo guía | Probable (Wikipedia, *Divevolk*, buzos finlandeses) | 0,75 |
-| Sin formación de espeleobuceo completa | Probable; la única cifra pública es un nivel básico de caverna en uno de ellos | 0,6 |
-| Desorientación y túnel lateral equivocado | Sí: hipótesis preliminar de DAN y posición de los cuerpos | 0,85 |
-| Muerte por agotamiento del aire (anoxia) | Sí: peritaje médico | 0,9 |
+| Sin formación de espeleobuceo completa | No consta; la única información pública es un nivel básico de caverna en uno de ellos | 0,6 |
+| Desorientación y túnel lateral equivocado | No confirmado: hipótesis preliminar de DAN, que encaja con la posición de los cuerpos | 0,85 |
+| Muerte por agotamiento del aire (anoxia) | Peritaje médico citado por la prensa italiana; informe completo no publicado | 0,9 |
 | Corriente que los arrastró | No confirmado | 0,3 |
 | Toxicidad del oxígeno como causa directa | Posible solo si llevaban nitrox; no confirmado | 0,3 |
 
@@ -413,25 +421,25 @@ flowchart LR
 
 ## 9. Cómo se podría haber evitado
 
-Cada fila es una capa del queso suizo. **Con que una sola hubiera funcionado, lo más probable es que hoy estuvieran vivos.**
+Cada fila es una capa de protección del modelo del queso suizo. La primera columna recoge lo que indican las fuentes o lo que se supone, **no hechos probados**; donde no hay datos se indica. La lección es general: sirve para cualquier inmersión en cueva, se confirme o no cada punto en este caso.
 
-| Lo que pasó | Lo que se hace en una inmersión en cueva bien planificada | Qué lo habría evitado |
+| Lo que indican las fuentes (o se supone) | Lo que se hace en una inmersión en cueva bien planificada | Qué protege |
 |---|---|---|
-| Inmersión en cueva no declarada | Plan escrito, permiso específico de exploración profunda y aviso a las autoridades del punto exacto | Las autoridades lo habrían denegado o habrían exigido equipo técnico |
-| 60 m con aire | **Trimix** (oxígeno + helio + nitrógeno), por ejemplo **18/45** (18 % O₂, 45 % He): a 60 m da ppO₂ ≈ 1,26 bar y una narcosis equivalente a unos 23 m | Cabeza clara para navegar y decidir |
-| Una botella de 12 L | **Dos botellas independientes** (bibotella o *sidemount*) + **botellas de etapa** con gas de descompresión, o **rebreather** con botellas de rescate (*bailout*) | Gas suficiente para volver y para descomprimir |
-| Sin plan de gas | **Regla de los tercios:** 1/3 para entrar, 1/3 para salir y 1/3 de reserva para un compañero. A 60 m con 12 L y consumo normal, eso deja **menos de 6 minutos** para entrar | La regla habría dicho «no» antes de mojarse |
-| Sin hilo guía | **Hilo continuo** desde el agua abierta, con carrete; **flechas** de dirección apuntando a la salida y **marcadores personales** | Habrían salido a tientas siguiendo el hilo |
-| Aleteo normal | **Aleteo de rana** y control de flotabilidad perfecto, lejos del fondo | Sin nube de arena, la salida se habría visto |
-| Una linterna | **Regla de las tres luces:** una principal y dos de reserva por buceador | Nunca a oscuras |
-| Grupo de cinco con niveles distintos | Equipos de **2 o 3** buceadores con la **misma formación**, señales acordadas y orden fijo | Más control y menos sedimento |
-| Formación de aguas abiertas | Escalera de formación: **caverna → introducción a cuevas → cueva completa**, más trimix y descompresión | Las técnicas que les faltaron |
-| Cueva sin mapa completo | Topografía previa o inmersión de reconocimiento con un guía que la conozca | Saber que había un túnel gemelo |
+| Inmersión en cueva no declarada (según el Gobierno) | Plan escrito, permiso específico de exploración profunda y aviso a las autoridades del punto exacto | Las autoridades pueden denegarla o exigir equipo técnico |
+| 60 m con aire (según la mayoría de fuentes) | **Trimix** (oxígeno + helio + nitrógeno), por ejemplo **18/45** (18 % O₂, 45 % He): a 60 m da ppO₂ ≈ 1,26 bar y una narcosis equivalente a unos 23 m | Cabeza clara para navegar y decidir |
+| Una botella de 12 L (según las fuentes) | **Dos botellas independientes** (bibotella o *sidemount*) + **botellas de etapa** con gas de descompresión, o **rebreather** con botellas de rescate (*bailout*) | Gas suficiente para volver y para descomprimir |
+| Plan de gas desconocido | **Regla de los tercios:** 1/3 para entrar, 1/3 para salir y 1/3 de reserva para un compañero. A 60 m con 12 L y consumo normal, eso deja **menos de 6 minutos** para entrar | La regla dice «no» antes de mojarse |
+| Sin hilo guía (según varias fuentes) | **Hilo continuo** desde el agua abierta, con carrete; **flechas** de dirección apuntando a la salida y **marcadores personales** | Se puede salir a tientas siguiendo el hilo |
+| Sedimento levantado (dato no confirmado) | **Aleteo de rana** y control de flotabilidad perfecto, lejos del fondo | Sin nube de arena, la salida se ve |
+| Iluminación (no hay datos) | **Regla de las tres luces:** una principal y dos de reserva por buceador | Nunca a oscuras |
+| Grupo de cinco con formaciones distintas | Equipos de **2 o 3** buceadores con la **misma formación**, señales acordadas y orden fijo | Más control y menos sedimento |
+| Formación en cuevas no documentada | Escalera de formación: **caverna → introducción a cuevas → cueva completa**, más trimix y descompresión | Las técnicas específicas de cueva |
+| Cueva sin mapa completo | Topografía previa o inmersión de reconocimiento con un guía que la conozca | Saber que hay un túnel gemelo |
 | Mal tiempo y mareas vivas | Suspender la inmersión. Cristina Zenato, instructora de cuevas: «Me he sentado al borde del agua y he dicho *hoy no*» | Más margen ante una corriente o un problema |
-| Barco sin licencia de escuela | Operador con licencia y protocolo de emergencia, oxígeno y evacuación a cámara hiperbárica | Rescate más rápido y seguro |
+| Barco sin licencia de escuela (según el Gobierno) | Operador con licencia y protocolo de emergencia, oxígeno y evacuación a cámara hiperbárica | Rescate más rápido y seguro |
 
 ![Buceador de cuevas desplegando un hilo guía](https://upload.wikimedia.org/wikipedia/commons/c/c6/Cave_diver_running_a_reel.jpg)
-*Buceador de cuevas desenrollando un hilo guía desde el agua abierta hacia el interior. Es la técnica básica que, según los informes, no se usó. Foto: Ryan Cantey, CC BY-SA 3.0, vía Wikimedia Commons.*
+*Buceador de cuevas desenrollando un hilo guía desde el agua abierta hacia el interior. Es la técnica básica que, según varias fuentes, no se usó. Foto: Ryan Cantey, CC BY-SA 3.0, vía Wikimedia Commons.*
 
 <p align="center">
 <img src="https://upload.wikimedia.org/wikipedia/commons/1/1c/Sidemount_032_Photo_by_Pete_Nawrocky.jpg" width="55%" alt="Buceador en sidemount">
@@ -446,7 +454,7 @@ Cada fila es una capa del queso suizo. **Con que una sola hubiera funcionado, lo
 
 ### 10.1 El intento de la MNDF y la muerte del sargento Mahudhee
 
-El sábado 16 de mayo, un equipo de **ocho buzos** de la Guardia Costera maldiva (MNDF) entró en la cueva **con aire y equipo estándar**: el mismo tipo de equipo que había fallado dos días antes. Según la reconstrucción del *Maldives Independent*:
+El sábado 16 de mayo, un equipo de **ocho buzos** de la Guardia Costera maldiva (MNDF) entró en la cueva **con aire y equipo estándar**, parecido al que, según las fuentes, llevaba el grupo italiano. Según la reconstrucción del *Maldives Independent*, que la investigación oficial no ha confirmado:
 
 - Se le soltó el bolsillo donde llevaba su **carrete de hilo guía**, se separó del grupo y siguió a otro buzo hasta la 2.ª cámara.
 - Lo encontraron a **69 m** con la botella vacía y el regulador fuera de la boca. Estuvo desaparecido **al menos 75 minutos**.
@@ -454,7 +462,7 @@ El sábado 16 de mayo, un equipo de **ocho buzos** de la Guardia Costera maldiva
 - El certificado de defunción habla de **embolia gaseosa arterial cerebral** por ascenso rápido. Su familia lo discute: los informes del hospital indican que llegó **sin pulso** y un médico de buceo que los revisó cree que **ya había muerto en la cueva**. No se le hizo autopsia.
 - Los propios mandos de la MNDF reconocieron que sus buzos solo están titulados hasta **50 m**. No había cámara hiperbárica en el lugar.
 
-> 🧭 **La regla más dura del rescate:** **no crear más víctimas.** Un rescatador que entra en las mismas condiciones que causaron el accidente corre el mismo riesgo. El equipo internacional llegaba al día siguiente. Recuperar cuerpos nunca justifica arriesgar a los vivos.
+> 🧭 **Una regla general de los rescates:** **no crear más víctimas.** Un rescatador que entra en las mismas condiciones que causaron un accidente corre el mismo riesgo. Esto no juzga al sargento Mahudhee, que arriesgó su vida por recuperar a otros; es una lección para quienes organizan los rescates.
 
 ### 10.2 El equipo finlandés de DAN Europe
 
@@ -483,7 +491,7 @@ Jenni Westerlund describió así el método: «Usamos *scooters*. Uno guiaba y a
 | Reglamento de buceo recreativo de Maldivas (2003) | Límite de **30 m** |
 | Permiso de investigación de la Universidad de Génova | Del 3 al 17 de mayo, en seis atolones incluido Vaavu, para estudiar corales blandos **hasta 50 m**. **No mencionaba cuevas** ni puntos concretos, y **no incluía a dos** de los fallecidos |
 | Licencia del *Duke of York* | Solo **recreativa (30 m)**. Según el Gobierno, le faltaba la **licencia de escuela de buceo** necesaria para organizar expediciones |
-| Permiso de exploración profunda | El único camino legal para entrar en esa cueva. **No lo tenían** |
+| Permiso de exploración profunda | El único camino legal para entrar en esa cueva. Según el Gobierno, **no lo tenían** |
 | Buceo técnico | Maldivas **no tenía ninguna regulación** que distinguiera el buceo técnico del recreativo por debajo de 30 m |
 
 ### 11.2 Quién dice qué
@@ -506,14 +514,14 @@ Jenni Westerlund describió así el método: «Usamos *scooters*. Uno guiaba y a
 
 | Hipótesis | Estado | Razonamiento |
 |---|---|---|
-| Ataque de tiburón | ❌ Descartada | Sin lesiones de fauna en las autopsias. Los tiburones nodriza de la zona son tranquilos |
+| Ataque de tiburón | ❌ Descartada | Sin lesiones de fauna en las autopsias, según la prensa italiana. Los tiburones nodriza de la zona son tranquilos |
 | Aire contaminado con monóxido de carbono | ❌ Descartada según *Geopop* | Sin CO ni otras sustancias en los análisis. *Divernet* decía el 9 de octubre que la toxicología seguía pendiente: hay que confirmarlo |
 | Narcosis como causa **única** | ❌ No basta | Desaparece al subir; no explica por sí sola que cinco personas no encontraran la salida. Sí es un **factor agravante** |
 | Toxicidad del oxígeno | ⚠️ «Descartada» según *Geopop*, pero… | Una convulsión por oxígeno **no deja huella** en una autopsia. Solo es plausible si llevaban nitrox. Confianza baja (0,3) |
-| **Desorientación y túnel equivocado** | ✅ La más probable | Posición de los cuerpos, informe de DAN y descripción de los finlandeses (0,85) |
-| **Agotamiento del aire** | ✅ Confirmado | Anoxia en los cinco y botella vacía de Benedetti (0,9) |
+| **Desorientación y túnel equivocado** | ✅ La más probable (hipótesis, no confirmada) | Posición de los cuerpos, reconstrucción preliminar de DAN y descripción de los finlandeses (0,85) |
+| **Agotamiento del aire** | ✅ Muy probable | Anoxia en los cinco según el peritaje publicado por la prensa y botella vacía de Benedetti; el informe oficial no es público (0,9) |
 | Corriente que los arrastró | ❓ Abierta | Monzón y mareas vivas a favor; testimonios de buceadores en contra (0,3) |
-| Pánico que aceleró el consumo | ❓ Muy probable como agravante | Física del consumo (ver [§7.5](#75-cuánto-dura-una-botella-a-60-m)) |
+| Pánico que aceleró el consumo | ❓ Posible agravante, imposible de comprobar | Física del consumo (ver [§7.5](#75-cuánto-dura-una-botella-a-60-m)) |
 
 ---
 
@@ -522,8 +530,8 @@ Jenni Westerlund describió así el método: «Usamos *scooters*. Uno guiaba y a
 | Mito | Realidad | Confianza |
 |---|---|---|
 | «Eran principiantes» | Eran muy expertos en aguas abiertas, pero no consta formación completa en cuevas | 0,85 |
-| «Se quedaron sin oxígeno» | Se quedaron sin **aire**. El oxígeno puro sería tóxico a 60 m | 0,9 |
-| «Les atacó un tiburón» | Ninguna lesión de fauna | 0,95 |
+| «Se quedaron sin oxígeno» | Según el peritaje publicado, lo más probable es que se quedaran sin **aire**. El oxígeno puro sería tóxico a 60 m | 0,9 |
+| «Les atacó un tiburón» | Las autopsias no encontraron lesiones de fauna, según la prensa | 0,95 |
 | «Era una inmersión de la universidad» | La universidad lo niega; el permiso no cubría cuevas | 0,7 |
 | «La cueva tiene una corriente asesina» | Hipótesis sin confirmar; normalmente no tiene corrientes fuertes | 0,7 |
 | «El rescatador murió de descompresión» | Es lo que dijo el Gobierno el primer día; el hospital y la familia apuntan a que murió dentro de la cueva | 0,6 |
@@ -617,6 +625,8 @@ Jenni Westerlund describió así el método: «Usamos *scooters*. Uno guiaba y a
 
 **Límites:**
 
+- **La investigación oficial sigue abierta** en Maldivas e Italia. Este estudio puede quedar desfasado; la fecha de la última revisión está al principio.
+- El autor es **buceador aficionado**, no experto en buceo técnico ni en cuevas, ni investigador oficial. Las opiniones sobre técnica se apoyan en especialistas citados.
 - No se han publicado los datos de los ordenadores de buceo ni el vídeo de la GoPro. La secuencia exacta **no se conoce**.
 - No hay informe oficial final ni de Maldivas ni de Italia.
 - No se conoce con certeza la formación de cada víctima.
@@ -702,6 +712,8 @@ Todas las fotografías proceden de **Wikimedia Commons** y tienen licencias libr
 | Mapas, corte, planta, gráficas y esquemas (`figs/`) | Óscar Ramírez Martín | CC BY-SA 4.0 | Elaboración propia |
 
 > **Licencia de este documento:** texto y diagramas propios bajo **CC BY-SA 4.0** (obligatoria por las fotos CC BY-SA que incluye). Cada fotografía conserva la licencia de su autor.
+>
+> **Si compartes este estudio o sus fotos fuera de GitHub** (redes, presentaciones, blogs, PDF), cada foto debe ir con su **autor, licencia y enlace** a la página de Wikimedia Commons, tal como aparece en esta tabla.
 
 ---
 

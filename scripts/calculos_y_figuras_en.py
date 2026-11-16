@@ -231,7 +231,7 @@ ax.text(125, 16, "in", color="#7fd1ff", fontsize=9, fontweight="bold")
 ax.annotate("", (84, -2), (125, -4), arrowprops=dict(arrowstyle="->", color=ACC, lw=2, ls="--"))
 ax.text(108, -7, "way back: with the sand stirred up,\nthe side opening looks like the exit", color="#ffb3b3", fontsize=7.5, ha="center")
 ax.set_xticks([]); ax.set_yticks([])
-ax.set_title("Plan view (schematic): why the side tunnel looks like the exit")
+ax.set_title("Plan view (schematic): the recovery divers' hypothesis")
 save(fig, "planta_cueva")
 
 # ---- Cronología ----
@@ -296,14 +296,14 @@ save(fig, "deco_gas")
 
 # ---- Cadena de errores ----
 fig, ax = plt.subplots(figsize=(10, 3.5)); ax.axis("off"); ax.set_xlim(0, 10); ax.set_ylim(0, 3.2)
-steps = ["Cave dive\nnot declared", "47–70 m with a\n30 m legal limit", "Air,\nnot trimix", "A single\n12 L cylinder", "No\nguideline",
-         "No cave\ntraining", "Sand + darkness\n+ unmapped tunnel", "Blind tunnel and\nair exhausted", "Anoxia"]
+steps = ["Cave dive not declared\n(per the government)", "47–70 m with a\n30 m legal limit", "Air,\nnot trimix", "A single\n12 L cylinder", "No guideline\n(per sources)",
+         "Cave training\nnot documented", "Sand + darkness\n+ unmapped tunnel", "Hypothesis: blind\ntunnel, air exhausted", "Anoxia"]
 cols = ["#e9eef3"] * 6 + [ACC, WARN, INK]
 pos = [(0.1 + i * 2.0, 1.85) for i in range(5)] + [(8.1 - i * 2.0, 0.25) for i in range(4)]
 for i, (s_, c) in enumerate(zip(steps, cols)):
     x, y = pos[i]
     ax.add_patch(FancyBboxPatch((x, y), 1.7, 0.95, boxstyle="round,pad=0.04", fc=c, ec="#8899aa"))
-    ax.text(x + 0.85, y + 0.475, s_, ha="center", va="center", fontsize=8.5, color="white" if c in (ACC, INK, WARN) else INK, fontweight="bold")
+    ax.text(x + 0.85, y + 0.475, s_, ha="center", va="center", fontsize=7.8, color="white" if c in (ACC, INK, WARN) else INK, fontweight="bold")
     if i < len(steps) - 1:
         x2, y2 = pos[i + 1]
         if y2 == y:
@@ -311,6 +311,6 @@ for i, (s_, c) in enumerate(zip(steps, cols)):
         else:
             a, b = (x + .85, y - .05), (x2 + .85, y2 + .99)
         ax.add_patch(FancyArrowPatch(a, b, arrowstyle="-|>", mutation_scale=14, color="#556", lw=1.3))
-ax.set_title("The chain of errors (Swiss cheese model)")
+ax.set_title("Possible chain of errors (hypothesis: the official investigation is still open)")
 save(fig, "cadena_errores")
 print("\nFigures generated in:", OUT)

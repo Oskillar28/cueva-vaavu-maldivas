@@ -147,7 +147,7 @@ story.append(Paragraph(subtitle, ParagraphStyle("st", fontName="DV", fontSize=13
 story.append(Spacer(1, 0.8 * cm))
 for fig in (T("figs/corte_cueva.png", "figs_en/corte_cueva.png"),):
     local_images([fig], T("Corte esquemático de la cueva (ilustración propia).", "Schematic cross-section of the cave (author's own illustration)."))
-story.append(Paragraph(T("<b>Autor:</b> Óscar Ramírez Martín · <b>Fecha:</b> octubre de 2026 · <b>Licencia:</b> CC BY-SA 4.0", "<b>Author:</b> Óscar Ramírez Martín · <b>Date:</b> October 2026 · <b>Licence:</b> CC BY-SA 4.0"), ss["body"]))
+story.append(Paragraph(T("<b>Autor:</b> Óscar Ramírez Martín, buceador aficionado que investiga el caso (no experto) · <b>Fecha:</b> octubre de 2026, revisado en noviembre de 2026 · <b>Licencia:</b> CC BY-SA 4.0 · <b>Investigación oficial abierta:</b> lo no confirmado aparece como hipótesis", "<b>Author:</b> Óscar Ramírez Martín, a recreational diver researching the case (not an expert) · <b>Date:</b> October 2026, revised November 2026 · <b>Licence:</b> CC BY-SA 4.0 · <b>Official investigation still open:</b> anything unconfirmed is presented as a hypothesis"), ss["body"]))
 # notas de cabecera (excepto el enlace al PDF)
 for l in lines[1:i]:
     if l.startswith("> ") and ("Nota de respeto" in l or "note of respect" in l):

@@ -1,15 +1,17 @@
 # 🌊 The Vaavu Cave Tragedy (Maldives, 2026)
 
-### Physics, geography and the chain of errors behind the worst diving accident in Maldivian history
+### Physics, geography and possible causes of the worst diving accident in Maldivian history
 
 > 🇪🇸 **[Versión en español](README.md)**
 
-> **Popular-science study** · Author: Óscar Ramírez Martín · October 2026
-> Based on cross-checked public sources and the author's own calculations.
+> **Popular-science study** · Author: Óscar Ramírez Martín, a recreational diver researching the case · October 2026 (revised November 2026)
+> I am not an expert in technical or cave diving. This work brings together cross-checked public sources and my own calculations using standard formulas, and states at each point what is confirmed and what is not.
 
 > 📄 **PDF version:** [Study_Vaavu_Cave_Maldives.pdf](Study_Vaavu_Cave_Maldives.pdf)
 
-> ⚠️ **A note of respect.** This study deals with the real deaths of six people: five Italian divers and a Maldivian military diver who died trying to recover them. It contains no photographs of the victims and no images of their bodies. The aim is to understand **why** it happened and **how it could have been prevented**, so that it does not happen again.
+> ⚠️ **A note of respect.** This study deals with the real deaths of six people: five Italian divers and a Maldivian military diver who died trying to recover them. Their families may read it. It contains no photographs of the victims or images of their bodies, and it does not set out to blame anyone. The aim is to understand **what may have happened** and **how accidents like this can be prevented**.
+
+> 🔎 **The official investigation is still open.** Neither the Maldives nor the Rome prosecutors have published conclusions. Everything not confirmed by an official source appears here as a **hypothesis**, with its origin and a confidence level (0–1). If you spot an error or something that has changed, please open an *issue* in this repository and I will correct it.
 
 > 📚 **Series of studies on diving accidents** by the same author:
 > [Dahab Blue Hole (Yuri Lipski, 2000)](https://github.com/Oskillar28/blue-hole-dahab-yuri-lipski) · [Boesmansgat (Deon Dreyer and Dave Shaw, 1994–2005)](https://github.com/Oskillar28/boesmansgat-deon-dreyer) · [Plura cave (Norway, 2014)](https://github.com/Oskillar28/plura-cueva-noruega) · **Vaavu cave (Maldives, 2026)** (this study)
@@ -29,7 +31,7 @@
     - [4.7 The cave](#47-the-cave)
 5. [Timeline](#5-timeline)
 6. [What the images show](#6-what-the-images-show)
-7. [Why they died: a point-by-point analysis](#7-why-they-died-a-point-by-point-analysis)
+7. [What may have happened: a point-by-point analysis](#7-what-may-have-happened-a-point-by-point-analysis)
 8. [The chain of errors](#8-the-chain-of-errors)
 9. [How it could have been prevented](#9-how-it-could-have-been-prevented)
 10. [The recovery and the sixth victim](#10-the-recovery-and-the-sixth-victim)
@@ -55,7 +57,7 @@ This study does the opposite of a headline: it separates what is verified from w
 
 ## 2. The case in 30 seconds
 
-| Fact | Most reliable value |
+| Fact | Most reliable value (as of November 2026) |
 |---|---|
 | **Date** | Thursday 14 May 2026, dive starting around 11:00 |
 | **Place** | Devana Kandu cave (also called Dhekunu Kandu, Thinwana Kandu or "Shark Cave"), next to Alimathaa island, Vaavu Atoll (Maldives) |
@@ -64,12 +66,12 @@ This study does the opposite of a headline: it separates what is verified from w
 | **Legal limit for recreational diving in the Maldives** | **30 m** |
 | **Victims** | 5 Italian divers + 1 Maldivian military diver during the recovery |
 | **Boat** | *MV Duke of York*, a Maldivian-flagged liveaboard dive cruiser |
-| **Breathing gas** | Ordinary compressed air in 12 L cylinders, with no redundancy |
-| **Medical cause** | **Anoxia** (lack of oxygen) in all five: they ran out of air inside the cave |
-| **Probable cause** | They became disoriented on the way back, swam into a blind side tunnel that was not on any map and ran out of gas |
+| **Breathing gas** | Compressed air in 12 L cylinders, according to most sources. Not officially confirmed: the cylinder analysis has not been published |
+| **Medical cause** | **Anoxia** (lack of oxygen) in all five, according to the medical expert report published by the Italian press in October. The full report is not public |
+| **Main hypothesis** | DAN Europe's **preliminary** reconstruction: they became disoriented on the way back, swam into a blind side tunnel that was not on any map and ran out of air. This is not an official finding |
 | **Who recovered them** | Three Finnish cave divers sent by DAN Europe, from 18 to 21 May |
 
-**In one sentence:** a group of experts in **open-water** diving entered a dark cave at 60 m with recreational equipment and no guideline. On the way back they could not find the exit, and the air in a single cylinder lasts only a few minutes at that depth.
+**In one sentence:** according to the information published so far, a group with extensive **open-water** experience entered a dark cave at about 60 m with recreational equipment and, according to several sources, no guideline. The main hypothesis is that on the way back they could not find the exit, and at that depth the air in a single cylinder lasts only a few minutes.
 
 ---
 
@@ -88,7 +90,7 @@ This study does the opposite of a headline: it separates what is verified from w
 
 The group was on the University of Genoa's annual scientific expedition on soft corals, which had been running since 1997. The university maintains that this particular dive was **a personal activity**, outside the official programme.
 
-> 🧠 **Reasoning:** "very experienced" ≠ "experienced in caves". 5,000 open-water dives do not teach the techniques a cave requires: guideline, rule of thirds, kicking without stirring up sediment, navigating in darkness. The specialists quoted by *The Guardian* all make the same point: **the expert diver's overconfidence** is one of the most recurrent factors in cave-diving accidents.
+> 🧠 **General reasoning:** "very experienced" ≠ "experienced in caves". Thousands of open-water dives do not teach the techniques a cave requires: guideline, rule of thirds, kicking without stirring up sediment, navigating in darkness. The specialists quoted by *The Guardian* point out that **the expert diver's overconfidence** is one of the most recurrent factors in cave-diving accidents. What cave training each member of the group had is not known.
 
 ---
 
@@ -227,7 +229,7 @@ Light decides what lives at each depth. Water absorbs red first (about 5 m), the
 
 ![Plan view of the cave](figs_en/planta_cueva.png)
 
-**The trap, as explained by the divers who went through it:** on the way in, you cross the 2nd chamber past a mound of sand. On the way back, with the sand stirred up and torchlight bouncing off the cloud, that mound **hides the mouth of the correct tunnel**, while the mouth of the side tunnel, right next to it, looks like the exit. The four bodies were found together at the far end of that side tunnel. Benedetti, the guide, was found near the entrance with an empty cylinder: he may have found the exit, or gone back in to look for the others.
+**The "sand trap" hypothesis, according to the divers who went through the cave:** on the way in, you cross the 2nd chamber past a mound of sand. On the way back, with the sand stirred up and torchlight bouncing off the cloud, that mound **may hide the mouth of the correct tunnel**, while the mouth of the side tunnel, right next to it, looks like the exit. According to DAN Europe, the four bodies were found at the far end of that side tunnel, and Benedetti, the guide, near the entrance. Why he was there is unknown: he may have found the exit or gone back to look for the others. It is a plausible explanation, **not an official finding**.
 
 ---
 
@@ -251,7 +253,7 @@ timeline
     21 May : Lines and equipment removed and handed to police
     23 May : The bodies arrive at Malpensa airport (Milan)
     25-26 May : Autopsies in Gallarate; no injuries or trauma
-    4-5 Oct : The medical expert report confirms anoxia in all five
+    4-5 Oct : According to the Italian press, the medical expert report indicates anoxia in all five
 ```
 
 ---
@@ -268,7 +270,9 @@ timeline
 
 ---
 
-## 7. Why they died: a point-by-point analysis
+## 7. What may have happened: a point-by-point analysis
+
+> 🔎 This section **does not give official conclusions**. It explains the physics at work at that depth and the hypotheses that have been published. The gas and time figures are **estimates** based on what the sources report (12 L cylinders of air), not on the victims' dive computers, which have not been made public.
 
 The numbers in this section are the author's own calculations, made with standard diving formulas and checked with a Python script ([`scripts/calculos_y_figuras_en.py`](scripts/calculos_y_figuras_en.py), results in [`calculations_en.txt`](calculations_en.txt)).
 
@@ -351,16 +355,16 @@ At 60 m the body absorbs nitrogen very quickly. To avoid **decompression sicknes
 
 ![Gas required versus gas available](figs_en/deco_gas.png)
 
-> ⚖️ **Conclusion:** with a single 12 L cylinder **no plan exists** that makes that dive safe. The gas required is **2 to 6 times** what they carried. The decisive error was not made inside the cave but **before getting into the water**. ⚠️ Do not use these figures to plan a real dive.
+> ⚖️ **What the calculation shows:** if each of them carried, as the sources indicate, a single 12 L cylinder of air, **no plan exists** that makes that dive safe: the gas required would be **2 to 6 times** what was available. If confirmed, the underlying problem would lie in the **planning**, before getting into the water, rather than in what happened inside. ⚠️ Do not use these figures to plan a real dive.
 
 ### 7.7 Getting lost in a cave: darkness, sediment and an unmapped tunnel
 
-This is the point that, according to DAN Europe, explains what happened.
+This is DAN Europe's **preliminary hypothesis** for what happened. It is the one that best fits the position of the bodies, but it is not an official finding.
 
 1. **No natural light, no reference.** Edd Sorenson, a cave rescue specialist, told *The Guardian*: "Caves are not dark. They're devoid of light. Your house at night is dark… When your light goes out [in a cave], there's nothing." The eye cannot adjust because there is not a single photon.
 2. **Sediment ("silt-out").** The floor of the 2nd chamber is fine sand. An ordinary open-water kick (the up-and-down *flutter kick*) close to the bottom stirs it up and visibility goes from perfect to **zero in seconds**. Cave divers use the **frog kick**, which pushes water backwards rather than downwards.
-3. **No guideline.** Reports agree that **no guideline was used**. In cave diving it is rule number one: a **continuous line from open water** to the farthest point. If visibility is lost, you follow the line **by touch** to the exit.
-4. **The mound and the twin tunnel.** The mouth of the correct tunnel was hidden by the sand mound, and the mouth of the side tunnel, right next to it, looked like the exit (see [§4.7](#47-the-cave)).
+3. **No guideline.** Several sources (Wikipedia, *Divevolk* and statements by the recovery divers) indicate that **no guideline was used**; there is no official confirmation. In cave diving it is rule number one: a **continuous line from open water** to the farthest point. If visibility is lost, you follow the line **by touch** to the exit.
+4. **The mound and the twin tunnel.** According to the recovery divers, the mouth of the correct tunnel may have been hidden by the sand mound, and the mouth of the side tunnel, right next to it, may have looked like the exit (see [§4.7](#47-the-cave)).
 5. **A tunnel that was on no map.** Sami Paakkarinen found the victims by following **marks in the sand** into an uncharted tunnel. That is why he later called for the cave to be properly surveyed.
 
 ### 7.8 Did a current drag them in?
@@ -369,11 +373,13 @@ Italian hyperbaric physician Pasquale Longobardi (SIMSI) suggested that an unexp
 
 ### 7.9 The human factor
 
-- **Overconfidence.** Laura Marroni of DAN Europe summed it up in one word: *overconfidence*. Being very good in open water does not make you good in caves.
-- **Authority within the group.** When a group includes a professor with 5,000 dives and an instructor who knows the area, the others find it hard to say "no". In aviation this is called the **authority gradient**.
+No one knows what was said on the boat or how the decision to go in was made. These are factors that **recur in many cave accidents**; there is no proof that they played a part in this one.
+
+- **Overconfidence.** Laura Marroni of DAN Europe pointed to this possibility in one word: *overconfidence*. Being very good in open water does not make you good in caves.
+- **Authority within the group.** In any group with very experienced people, the others find it hard to say "no". In aviation this is called the **authority gradient**.
 - **A group is only as safe as its least prepared member.** Five people in a cave means five clouds of sand and five different consumption rates.
 - **Normalisation of risk.** If a "risky" dive has gone well before, the risk stops looking like one.
-- **Target fixation.** Seeing fauna that exists nowhere outside the cave was a genuine scientific motive, and that pushes people to keep going.
+- **Target fixation.** Seeing fauna that exists nowhere outside the cave would be a genuine scientific motive, and that pushes people to keep going.
 
 ---
 
@@ -381,17 +387,19 @@ Italian hyperbaric physician Pasquale Longobardi (SIMSI) suggested that an unexp
 
 Safety science uses the **Swiss cheese model**: an accident rarely has a single cause. It happens when the holes in several layers of protection line up.
 
+> 🔎 This chain is a **possible reconstruction** based on published information. Each link carries its source and how far it is confirmed in the table below. The official investigation may change it.
+
 ![Chain of errors](figs_en/cadena_errores.png)
 
 ```mermaid
 flowchart LR
-    A["1️⃣ Planning<br/>Cave dive<br/>not declared"] --> B["2️⃣ Depth<br/>47–70 m with a<br/>30 m legal limit"]
+    A["1️⃣ Planning<br/>Cave dive not declared<br/>(per the government)"] --> B["2️⃣ Depth<br/>47–70 m with a<br/>30 m legal limit"]
     B --> C["3️⃣ Gas<br/>Air, not trimix"]
     C --> D["4️⃣ Equipment<br/>A single 12 L cylinder,<br/>no redundancy"]
-    D --> E["5️⃣ No guideline"]
-    E --> F["6️⃣ Training<br/>No known cave<br/>certification"]
+    D --> E["5️⃣ No guideline<br/>(per sources)"]
+    E --> F["6️⃣ Training<br/>Cave training<br/>not documented"]
     F --> G["7️⃣ Environment<br/>Sand + darkness<br/>+ unmapped tunnel"]
-    G --> H["8️⃣ Blind tunnel<br/>and air exhausted"]
+    G --> H["8️⃣ Hypothesis:<br/>blind tunnel<br/>and air exhausted"]
     H --> I["💀 Anoxia"]
     style G fill:#d64545,color:#fff
     style I fill:#222,color:#fff
@@ -399,13 +407,13 @@ flowchart LR
 
 | Link | Verified? | Confidence |
 |---|---|---|
-| The cave was not in the permit and the government did not know the exact location | Yes (government spokesman, *Open*, *Maldives Independent*) | 0.9 |
+| The cave was not in the permit and the government did not know the exact location | According to the government spokesman (*Open*, *Maldives Independent*) | 0.9 |
 | Depth of 47–70 m, beyond the 30 m limit | Yes (all sources) | 0.95 |
-| Ordinary compressed air and 12 L cylinders | Very likely (DAN, IVG, Divernet, *Maldives Independent*) | 0.8 |
+| Ordinary compressed air and 12 L cylinders | Very likely according to the press (DAN, IVG, Divernet, *Maldives Independent*); no official analysis published | 0.8 |
 | No guideline | Likely (Wikipedia, *Divevolk*, Finnish divers) | 0.75 |
-| No full cave training | Likely; the only public figure is a basic cavern level for one of them | 0.6 |
-| Disorientation and wrong side tunnel | Yes: DAN's preliminary hypothesis and the position of the bodies | 0.85 |
-| Death from running out of air (anoxia) | Yes: medical expert report | 0.9 |
+| No full cave training | Not documented; the only public information is a basic cavern level for one of them | 0.6 |
+| Disorientation and wrong side tunnel | Not confirmed: DAN's preliminary hypothesis, which fits the position of the bodies | 0.85 |
+| Death from running out of air (anoxia) | Medical expert report cited by the Italian press; full report not published | 0.9 |
 | A current dragged them in | Unconfirmed | 0.3 |
 | Oxygen toxicity as a direct cause | Possible only if they were on nitrox; unconfirmed | 0.3 |
 
@@ -413,25 +421,25 @@ flowchart LR
 
 ## 9. How it could have been prevented
 
-Each row is a slice of the Swiss cheese. **Had just one of them worked, they would most probably be alive today.**
+Each row is a layer of protection in the Swiss cheese model. The first column lists what the sources indicate or what is assumed, **not proven facts**; where there is no information, this is stated. The lesson is general: it applies to any cave dive, whether or not each point is confirmed in this case.
 
-| What happened | What a well-planned cave dive does | What it would have prevented |
+| What the sources indicate (or is assumed) | What a well-planned cave dive does | What it protects against |
 |---|---|---|
-| Cave dive not declared | Written plan, a specific deep-exploration permit and notifying the authorities of the exact site | The authorities would have refused it or required technical equipment |
-| 60 m on air | **Trimix** (oxygen + helium + nitrogen), e.g. **18/45** (18% O₂, 45% He): at 60 m it gives ppO₂ ≈ 1.26 bar and narcosis equivalent to about 23 m | A clear head to navigate and decide |
-| A single 12 L cylinder | **Two independent cylinders** (twinset or *sidemount*) + **stage cylinders** with decompression gas, or a **rebreather** with *bailout* cylinders | Enough gas to get back and to decompress |
-| No gas plan | **Rule of thirds:** 1/3 to go in, 1/3 to come out and 1/3 in reserve for a buddy. At 60 m with 12 L and normal consumption, that leaves **less than 6 minutes** to swim in | The rule would have said "no" before anyone got wet |
-| No guideline | **Continuous line** from open water on a reel; direction **arrows** pointing to the exit and **personal markers** | They would have got out by touch along the line |
-| Ordinary kicking | **Frog kick** and perfect buoyancy control, well off the bottom | Without the sand cloud, the exit would have been visible |
-| One torch | **Rule of three lights:** one primary and two backups per diver | Never in the dark |
-| Group of five with mixed levels | Teams of **2 or 3** divers with the **same training**, agreed signals and a fixed order | More control and less sediment |
-| Open-water training | The training ladder: **cavern → intro to cave → full cave**, plus trimix and decompression | The techniques they lacked |
-| Incompletely mapped cave | Prior survey, or a reconnaissance dive with a guide who knows it | Knowing there was a twin tunnel |
+| Cave dive not declared (per the government) | Written plan, a specific deep-exploration permit and notifying the authorities of the exact site | The authorities can refuse it or require technical equipment |
+| 60 m on air (per most sources) | **Trimix** (oxygen + helium + nitrogen), e.g. **18/45** (18% O₂, 45% He): at 60 m it gives ppO₂ ≈ 1.26 bar and narcosis equivalent to about 23 m | A clear head to navigate and decide |
+| A single 12 L cylinder (per the sources) | **Two independent cylinders** (twinset or *sidemount*) + **stage cylinders** with decompression gas, or a **rebreather** with *bailout* cylinders | Enough gas to get back and to decompress |
+| Gas plan unknown | **Rule of thirds:** 1/3 to go in, 1/3 to come out and 1/3 in reserve for a buddy. At 60 m with 12 L and normal consumption, that leaves **less than 6 minutes** to swim in | The rule says "no" before anyone gets wet |
+| No guideline (per several sources) | **Continuous line** from open water on a reel; direction **arrows** pointing to the exit and **personal markers** | You can get out by touch along the line |
+| Stirred-up sediment (unconfirmed) | **Frog kick** and perfect buoyancy control, well off the bottom | Without the sand cloud, the exit stays visible |
+| Lighting (no information) | **Rule of three lights:** one primary and two backups per diver | Never in the dark |
+| Group of five with different training | Teams of **2 or 3** divers with the **same training**, agreed signals and a fixed order | More control and less sediment |
+| Cave training not documented | The training ladder: **cavern → intro to cave → full cave**, plus trimix and decompression | Cave-specific techniques |
+| Incompletely mapped cave | Prior survey, or a reconnaissance dive with a guide who knows it | Knowing there is a twin tunnel |
 | Bad weather and spring tides | Call the dive off. Cristina Zenato, cave instructor: "I've sat on that water's edge when I said 'not today'" | More margin against a current or a problem |
-| Boat without a dive-school licence | A licensed operator with an emergency protocol, oxygen and evacuation to a hyperbaric chamber | A faster, safer rescue |
+| Boat without a dive-school licence (per the government) | A licensed operator with an emergency protocol, oxygen and evacuation to a hyperbaric chamber | A faster, safer rescue |
 
 ![Cave diver running a guideline](https://upload.wikimedia.org/wikipedia/commons/c/c6/Cave_diver_running_a_reel.jpg)
-*Cave diver running a guideline from open water into the interior. This is the basic technique that, according to the reports, was not used. Photo: Ryan Cantey, CC BY-SA 3.0, via Wikimedia Commons.*
+*Cave diver running a guideline from open water into the interior. This is the basic technique that, according to several sources, was not used. Photo: Ryan Cantey, CC BY-SA 3.0, via Wikimedia Commons.*
 
 <p align="center">
 <img src="https://upload.wikimedia.org/wikipedia/commons/1/1c/Sidemount_032_Photo_by_Pete_Nawrocky.jpg" width="55%" alt="Sidemount diver">
@@ -446,7 +454,7 @@ Each row is a slice of the Swiss cheese. **Had just one of them worked, they wou
 
 ### 10.1 The MNDF attempt and the death of Sergeant Mahudhee
 
-On Saturday 16 May, a team of **eight divers** from the Maldivian Coast Guard (MNDF) went into the cave **on air with standard equipment**: the same kind of equipment that had failed two days earlier. According to the *Maldives Independent*'s reconstruction:
+On Saturday 16 May, a team of **eight divers** from the Maldivian Coast Guard (MNDF) went into the cave **on air with standard equipment**, similar to what the sources say the Italian group used. According to the *Maldives Independent*'s reconstruction, which the official investigation has not confirmed:
 
 - The pocket holding his **guideline reel** came loose; he became separated from the group and followed another diver into the 2nd chamber.
 - He was found at **69 m** with an empty cylinder and the regulator out of his mouth. He had been missing for **at least 75 minutes**.
@@ -454,7 +462,7 @@ On Saturday 16 May, a team of **eight divers** from the Maldivian Coast Guard (M
 - The death certificate cites **cerebral arterial gas embolism** from a rapid ascent. His family disputes this: hospital records show he arrived **with no pulse**, and a diving physician who reviewed them believes he **had already died in the cave**. No autopsy was performed.
 - MNDF commanders themselves acknowledged that their divers are certified only to **50 m**. There was no hyperbaric chamber on site.
 
-> 🧭 **The hardest rule of rescue:** **do not create more victims.** A rescuer who goes in under the same conditions that caused the accident runs the same risk. The international team was arriving the next day. Recovering bodies never justifies risking the living.
+> 🧭 **A general rule of rescue:** **do not create more victims.** A rescuer who goes in under the same conditions that caused an accident runs the same risk. This is not a judgement of Sergeant Mahudhee, who risked his life to recover others; it is a lesson for those who organise rescues.
 
 ### 10.2 DAN Europe's Finnish team
 
@@ -483,7 +491,7 @@ Jenni Westerlund described the method: "We used scooters. One of us led and open
 | Maldivian recreational diving regulation (2003) | **30 m** limit |
 | University of Genoa research permit | 3–17 May, in six atolls including Vaavu, to study soft corals **down to 50 m**. It **did not mention caves** or specific sites, and **did not include two** of those who died |
 | *Duke of York* licence | **Recreational only (30 m)**. According to the government, it lacked the **dive-school licence** required to run expeditions |
-| Deep-exploration permit | The only legal way into that cave. **They did not have one** |
+| Deep-exploration permit | The only legal way into that cave. According to the government, **they did not have one** |
 | Technical diving | The Maldives had **no regulation at all** distinguishing technical from recreational diving below 30 m |
 
 ### 11.2 Who says what
@@ -506,14 +514,14 @@ Jenni Westerlund described the method: "We used scooters. One of us led and open
 
 | Hypothesis | Status | Reasoning |
 |---|---|---|
-| Shark attack | ❌ Ruled out | No wildlife injuries in the autopsies. The local nurse sharks are docile |
+| Shark attack | ❌ Ruled out | No wildlife injuries in the autopsies, according to the Italian press. The local nurse sharks are docile |
 | Air contaminated with carbon monoxide | ❌ Ruled out according to *Geopop* | No CO or other substances found. *Divernet* said on 9 October that toxicology was still pending: this needs confirming |
 | Narcosis as the **sole** cause | ❌ Not enough | It wears off on ascent; on its own it does not explain why five people could not find the exit. It is an **aggravating factor** |
 | Oxygen toxicity | ⚠️ "Ruled out" according to *Geopop*, but… | An oxygen convulsion **leaves no trace** at autopsy. It is only plausible if they were on nitrox. Low confidence (0.3) |
-| **Disorientation and wrong tunnel** | ✅ The most likely | Position of the bodies, DAN's report and the Finnish divers' description (0.85) |
-| **Running out of air** | ✅ Confirmed | Anoxia in all five and Benedetti's empty cylinder (0.9) |
+| **Disorientation and wrong tunnel** | ✅ The most likely (hypothesis, unconfirmed) | Position of the bodies, DAN's preliminary reconstruction and the Finnish divers' description (0.85) |
+| **Running out of air** | ✅ Very likely | Anoxia in all five according to the expert report cited by the press, and Benedetti's empty cylinder; the official report is not public (0.9) |
 | A current dragged them in | ❓ Open | Monsoon and spring tides for; divers' testimony against (0.3) |
-| Panic sped up gas consumption | ❓ Very likely as an aggravating factor | The physics of consumption (see [§7.5](#75-how-long-a-cylinder-lasts-at-60-m)) |
+| Panic sped up gas consumption | ❓ Possible aggravating factor, impossible to verify | The physics of consumption (see [§7.5](#75-how-long-a-cylinder-lasts-at-60-m)) |
 
 ---
 
@@ -522,8 +530,8 @@ Jenni Westerlund described the method: "We used scooters. One of us led and open
 | Myth | Reality | Confidence |
 |---|---|---|
 | "They were beginners" | They were highly experienced in open water, but there is no record of full cave training | 0.85 |
-| "They ran out of oxygen" | They ran out of **air**. Pure oxygen would be toxic at 60 m | 0.9 |
-| "A shark attacked them" | No wildlife injuries at all | 0.95 |
+| "They ran out of oxygen" | According to the published expert report, they most likely ran out of **air**. Pure oxygen would be toxic at 60 m | 0.9 |
+| "A shark attacked them" | The autopsies found no wildlife injuries, according to the press | 0.95 |
 | "It was a university dive" | The university denies it; the permit did not cover caves | 0.7 |
 | "The cave has a killer current" | Unconfirmed hypothesis; it does not normally have strong currents | 0.7 |
 | "The rescuer died of decompression sickness" | That is what the government said on the first day; the hospital and the family suggest he died inside the cave | 0.6 |
@@ -617,6 +625,8 @@ Jenni Westerlund described the method: "We used scooters. One of us led and open
 
 **Limitations:**
 
+- **The official investigation is still open** in the Maldives and Italy. This study may become outdated; the date of the last revision is given at the top.
+- The author is a **recreational diver**, not an expert in technical or cave diving, nor an official investigator. Views on technique rely on the specialists cited.
 - The dive-computer data and the GoPro footage have not been published. The exact sequence of events **is not known**.
 - There is no final official report from either the Maldives or Italy.
 - The training of each victim is not known with certainty.
@@ -702,6 +712,8 @@ All photographs come from **Wikimedia Commons** and carry free licences that all
 | Maps, cross-section, plan, charts and diagrams (`figs_en/`) | Óscar Ramírez Martín | CC BY-SA 4.0 | Author's own work |
 
 > **Licence of this document:** original text and diagrams under **CC BY-SA 4.0** (required by the CC BY-SA photos it includes). Each photograph keeps its author's licence.
+>
+> **If you share this study or its photos outside GitHub** (social media, presentations, blogs, PDFs), each photo must carry its **author, licence and a link** to its Wikimedia Commons page, as shown in this table.
 
 ---
 
